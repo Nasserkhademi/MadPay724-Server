@@ -1,0 +1,8 @@
+.vs
+MAdPay724.common/obj
+MAdPay724.Infrastructure/obj
+MAdPay724.Data/obj
+MAdPay724.Repository/obj
+MAdPay724.Presentation/obj
+MAdPay724.services/obj
+MAdPay724-client
